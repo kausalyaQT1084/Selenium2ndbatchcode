@@ -1,0 +1,22 @@
+1. Home Work for Selenium Batch II:
+
+
+1. SUMMATON OF EVEN NUMBERS
+2. Summation of Odd Numbers
+3. Print the below pattern
+           55555
+           4444
+           333
+           22
+           1
+
+4) Print the Below Pattern
+            1
+            2 3
+            4  5  6
+             7  8  9  10
+
+5) Find Factorial of the given number 
+    5= %*4*3*2*1
+
+_________________________________________________
